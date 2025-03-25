@@ -6,3 +6,4 @@
 [2025-03-25 18:04:24] Memperbarui dependensi di aptos-cores
 [2025-03-25 18:04:26] Memperbarui dependensi di aptos-cores
 [2025-03-25 18:04:29] Memperbarui dokumentasi di aptos-cores
+[2025-03-25 18:04:31] Memperbaiki typo di aptos-cores
